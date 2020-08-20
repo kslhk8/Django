@@ -141,8 +141,8 @@ STATIC_URL = '/static/'
 CART_SESSION_ID = 'cart'
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'kslhk8@gmail.com'
-EMAIL_HOST_PASSWORD = 'dydqja950206@'
+EMAIL_HOST_USER = 'your gmail'
+EMAIL_HOST_PASSWORD = 'gmail password'
 EMAIL_PORT =587
 EMAIL_USE_TLS = True
 
