@@ -147,9 +147,9 @@ EMAIL_PORT =587
 EMAIL_USE_TLS = True
 
 # Braintree settings
-BRAINTREE_MERCHANT_ID = 'dtd5n7vtpvh72wqz'
-BRAINTREE_PUBLIC_KEY = 'bzb26s5xd7czn6fp'
-BRAINTREE_PRIVATE_KEY = '4465dc8570b34f0a0b8b33d8450763b0'
+BRAINTREE_MERCHANT_ID = 'your memchant_id'
+BRAINTREE_PUBLIC_KEY = 'your public_key'
+BRAINTREE_PRIVATE_KEY = 'your private_key'
 
 from braintree import Configuration, Environment
 
